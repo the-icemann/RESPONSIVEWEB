@@ -1,0 +1,3 @@
+module RatesProviderMod {
+    exports Ra
+}
